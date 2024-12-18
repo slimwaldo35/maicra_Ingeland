@@ -1583,3 +1583,29 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [18Dec2024 05:05:54.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Sweet Dreams]
 [18Dec2024 05:07:07.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Rotten to the Core]
 [18Dec2024 05:07:12.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Book of Monsters]
+[18Dec2024 05:09:06.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -9.77035565914258,1.0,3.5784709380670847
+[18Dec2024 05:09:06.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -10.22617158536292,1.0,3.70885183159146
+[18Dec2024 05:09:06.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -10.684925701285295,1.0,3.8281852540762884
+[18Dec2024 05:09:06.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -11.146592788563112,1.0,3.9353872972894806
+[18Dec2024 05:09:06.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -11.610975774395115,1.0,4.029862724727991
+[18Dec2024 05:09:24.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved wrongly! 0.3006551292013455
+[18Dec2024 05:09:24.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved wrongly! 0.6341254029092624
+[18Dec2024 05:09:24.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved wrongly! 1.0060789226589109
+[18Dec2024 05:14:37.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [What a Deal!]
+[18Dec2024 05:14:38.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [A Pig in a Poke]
+[18Dec2024 05:16:42.998] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[18Dec2024 05:17:36.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved wrongly! 0.2829713833746723
+[18Dec2024 05:17:36.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved wrongly! 0.6464190045110172
+[18Dec2024 05:18:48.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved wrongly! 0.30225952787861843
+[18Dec2024 05:18:48.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved wrongly! 0.7363044413955322
+[18Dec2024 05:18:48.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved wrongly! 1.1818735440651835
+[18Dec2024 05:19:09.403] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-345, y=-16, z=1107}
+[18Dec2024 05:19:41.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved wrongly! 0.2782344879770804
+[18Dec2024 05:19:41.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved wrongly! 0.6602150552319443
+[18Dec2024 05:19:41.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved wrongly! 1.0632812433432122
+[18Dec2024 05:21:23.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved wrongly! 0.25534879911185726
+[18Dec2024 05:21:23.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved wrongly! 0.6078277697985186
+[18Dec2024 05:21:23.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved wrongly! 0.9846753709364862
+[18Dec2024 05:22:59.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -1.4977948218439963,-3.5510576895623984,-9.339049493729476
+[18Dec2024 05:24:02.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [A Strange Grave Dust]
+[18Dec2024 05:26:42.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Stone Age]

@@ -162,6 +162,7 @@
       "minecraft:bamboo_jungle": "2024-12-18 01:36:57 +0000",
       "minecraft:beach": "2024-12-18 04:51:53 +0000",
       "minecraft:dark_forest": "2024-12-18 01:31:39 +0000",
+      "minecraft:stony_peaks": "2024-12-18 05:03:50 +0000",
       "minecraft:river": "2024-12-18 01:38:49 +0000",
       "minecraft:stony_shore": "2024-12-18 04:54:05 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-18 04:30:45 +0000"
@@ -342,6 +343,12 @@
     },
     "done": true
   },
+  "morebows:recipes/iron_bow": {
+    "criteria": {
+      "has_bow": "2024-12-18 05:11:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/motion_activated_light": {
     "criteria": {
       "has_stick": "2024-12-18 04:07:28 +0000"
@@ -387,6 +394,12 @@
   "comforts:rope_and_nail": {
     "criteria": {
       "has_iron": "2024-12-18 04:28:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2024-12-18 05:07:06 +0000"
     },
     "done": true
   },
@@ -529,6 +542,12 @@
     },
     "done": true
   },
+  "morebows:recipes/stone_bow": {
+    "criteria": {
+      "has_bow": "2024-12-18 05:11:51 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_gray": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 04:28:32 +0000"
@@ -577,6 +596,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-18 05:05:54 +0000"
+    },
+    "done": true
+  },
   "vc_gliders:recipes/transportation/paraglider_iron": {
     "criteria": {
       "has_crafting_table": "2024-12-18 04:33:14 +0000"
@@ -586,13 +611,26 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-18 04:10:46 +0000",
-      "minecraft:phantom": "2024-12-18 04:57:45 +0000"
+      "minecraft:phantom": "2024-12-18 04:57:45 +0000",
+      "minecraft:zombie": "2024-12-18 05:21:31 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 04:28:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2024-12-18 05:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-18 05:14:41 +0000"
     },
     "done": true
   },
@@ -629,6 +667,12 @@
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-18 04:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-18 05:14:41 +0000"
     },
     "done": true
   },
@@ -758,6 +802,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2024-12-18 05:07:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/briefcase": {
     "criteria": {
       "has_iron": "2024-12-18 04:28:32 +0000"
@@ -872,6 +922,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2024-12-18 05:07:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 04:28:32 +0000"
@@ -887,6 +943,12 @@
   "vc_gliders:recipes/transportation/paraglider_netherite": {
     "criteria": {
       "has_crafting_table": "2024-12-18 04:33:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2024-12-18 05:07:12 +0000"
     },
     "done": true
   },
@@ -968,6 +1030,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2024-12-18 05:07:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sonic_security_system": {
     "criteria": {
       "has_stick": "2024-12-18 04:07:28 +0000"
@@ -1031,6 +1099,18 @@
   "another_furniture:recipes/dark_oak_shelf": {
     "criteria": {
       "has_planks": "2024-12-18 04:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-18 05:11:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-18 05:15:10 +0000"
     },
     "done": true
   },
@@ -1106,6 +1186,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2024-12-18 05:07:06 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_black": {
     "criteria": {
       "has_stick": "2024-12-18 04:07:28 +0000"
@@ -1115,6 +1201,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-18 04:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-18 05:15:10 +0000"
     },
     "done": true
   },
@@ -1169,6 +1261,12 @@
   "supplementaries:recipes/flags/flag_green": {
     "criteria": {
       "has_stick": "2024-12-18 04:07:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2024-12-18 05:11:53 +0000"
     },
     "done": true
   },
@@ -1241,6 +1339,12 @@
   "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
       "has_wood": "2024-12-18 04:32:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2024-12-18 05:14:41 +0000"
     },
     "done": true
   },
@@ -1478,6 +1582,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-18 05:15:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/bouncing_betty": {
     "criteria": {
       "has_iron": "2024-12-18 04:28:32 +0000"
@@ -1508,6 +1618,12 @@
     },
     "done": false
   },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2024-12-18 05:15:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2024-12-18 04:07:28 +0000"
@@ -1535,6 +1651,18 @@
   "securitycraft:recipes/misc/disguise_module": {
     "criteria": {
       "has_iron": "2024-12-18 04:28:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2024-12-18 05:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-18 05:14:41 +0000"
     },
     "done": true
   },
@@ -1617,6 +1745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-18 05:14:41 +0000"
+    },
+    "done": true
+  },
   "toolbelt:recipes/pouch": {
     "criteria": {
       "has_leather": "2024-12-18 04:14:56 +0000"
@@ -1680,6 +1814,8 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "fungal_jungle": "2024-12-18 04:05:00 +0000",
+      "lush_savanna": "2024-12-18 05:04:29 +0000",
+      "lush_desert": "2024-12-18 05:04:55 +0000",
       "volcano": "2024-12-18 05:00:28 +0000",
       "rocky_rainforest": "2024-12-18 04:05:45 +0000",
       "grassland": "2024-12-18 04:12:32 +0000",
@@ -1690,6 +1826,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-18 04:35:03 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/gold_bow": {
+    "criteria": {
+      "has_bow": "2024-12-18 05:11:51 +0000"
     },
     "done": true
   },
@@ -1735,6 +1877,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2024-12-18 05:07:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/earplugs": {
     "criteria": {
       "has_item": "2024-12-18 04:32:53 +0000"
@@ -1777,9 +1925,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2024-12-18 05:07:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-18 04:07:28 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/diamond_bow": {
+    "criteria": {
+      "has_bow": "2024-12-18 05:11:51 +0000"
     },
     "done": true
   },
@@ -1801,6 +1961,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2024-12-18 05:07:07 +0000"
+    },
+    "done": true
+  },
   "vc_gliders:recipes/transportation/paraglider_wood": {
     "criteria": {
       "has_crafting_table": "2024-12-18 04:33:14 +0000"
@@ -1819,6 +1985,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-18 05:14:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-18 05:07:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-12-18 04:13:50 +0000"
@@ -1828,6 +2006,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-18 04:14:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-18 05:15:10 +0000"
     },
     "done": true
   },
@@ -1870,6 +2054,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2024-12-18 04:32:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-18 05:11:51 +0000"
     },
     "done": true
   },
@@ -1990,6 +2180,12 @@
   "friendsandfoes:adventure/kill_illusioner": {
     "criteria": {
       "killed_illusioner": "2024-12-18 04:46:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-18 05:15:10 +0000"
     },
     "done": true
   },
@@ -2185,9 +2381,27 @@
     },
     "done": true
   },
+  "additionaladditions:obtain_mysterious_bundle": {
+    "criteria": {
+      "obtain": "2024-12-18 05:14:38 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/mangrove_drawer": {
     "criteria": {
       "has_planks": "2024-12-18 04:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-18 05:14:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2024-12-18 05:07:06 +0000"
     },
     "done": true
   },
@@ -2224,6 +2438,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 04:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-18 05:15:10 +0000"
     },
     "done": true
   },
@@ -2295,6 +2515,12 @@
     },
     "done": false
   },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2024-12-18 05:07:06 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2024-12-18 04:03:09 +0000"
@@ -2304,6 +2530,12 @@
   "another_furniture:recipes/furniture_hammer": {
     "criteria": {
       "has_stick": "2024-12-18 04:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-18 05:14:41 +0000"
     },
     "done": true
   },
