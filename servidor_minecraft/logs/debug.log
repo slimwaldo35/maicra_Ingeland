@@ -8287,3 +8287,481 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 21:27:37.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Dec2024 21:28:01.787] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
 [18Dec2024 21:29:58.437] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[18Dec2024 21:32:37.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 21:32:37.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 21:33:47.044] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 21:33:47.055] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=876, z=1073200}"
+}
+[18Dec2024 21:33:47.057] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[18Dec2024 21:33:47.059] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-93, -61, 64, -107, -58, 100, 55, 5, 4, -78, -80]"
+]
+[18Dec2024 21:33:47.148] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 21:33:47.150] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=917, z=1073200}"
+}
+[18Dec2024 21:33:47.150] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 120 extra bytes: 
+[18Dec2024 21:33:47.151] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "n->j\"}}.6:O Il&-\\1-)`KB&+/,0/520.i"
+]
+[18Dec2024 21:33:47.835] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 21:33:47.837] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=1015, z=1073200}"
+}
+[18Dec2024 21:33:47.837] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 22 extra bytes: 
+[18Dec2024 21:33:47.837] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "qwUMse#&R4C;"
+]
+[18Dec2024 21:33:47.880] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 21:33:47.882] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=994, z=1073200}"
+}
+[18Dec2024 21:33:47.882] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 98 extra bytes: 
+[18Dec2024 21:33:47.882] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "p2;%~F9EvM k|}&&+m;pL\\)2+U&+/,0/5"
+]
+[18Dec2024 21:33:47.884] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:Rot  id 22 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 21:33:47.885] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134118_": 0.0,
+  "f_134119_": 0.0,
+  "f_134120_": 0.0,
+  "f_134121_": 4892.6235,
+  "f_134122_": -4.1323018E9,
+  "f_134123_": true,
+  "f_134124_": false,
+  "f_134125_": true
+}
+[18Dec2024 21:33:47.885] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 22 data of 99 extra bytes: 
+[18Dec2024 21:33:47.886] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "k|}&&+m;pL\\)2+U&+/,0/520.ip.gl.ply.gg"
+]
+[18Dec2024 21:33:47.889] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPlayerAbilitiesPacket  id 28 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 21:33:47.890] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134254_": true
+}
+[18Dec2024 21:33:47.891] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 28 data of 125 extra bytes: 
+[18Dec2024 21:33:47.891] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "pL\\)2+U&+/,0/520.ip.gl.ply.gg"
+]
+[18Dec2024 21:33:47.892] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 21:33:47.893] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 38
+}
+[18Dec2024 21:33:47.893] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 133 extra bytes: 
+[18Dec2024 21:33:47.894] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "+/,0/520.ip.gl.ply.gg+3&"
+]
+[18Dec2024 21:33:47.894] [Netty Epoll Server IO #0/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda/0x0000769c6f2c90f0.operationComplete()
+java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:423) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md0fd8e2$lambda$on$0$2(Connection.java:1110) ~[server-1.20.1-20230612.114412-srg.jar%23399!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md0fd8e2$lambda$on$1$1(Connection.java:1088) ~[server-1.20.1-20230612.114412-srg.jar%23399!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:990) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:823) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18Dec2024 21:33:48.278] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 21:33:48.279] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=952, z=1073200}"
+}
+[18Dec2024 21:33:48.279] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 19 extra bytes: 
+[18Dec2024 21:33:48.280] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "vNrLD&L1~m8l"
+]
+[18Dec2024 21:33:48.406] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 21:33:48.407] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=1010, z=1073200}"
+}
+[18Dec2024 21:33:48.408] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 57 extra bytes: 
+[18Dec2024 21:33:48.408] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "q?BxMct,1]lU\" N&Ec.R;7"
+]
+[18Dec2024 21:33:49.010] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 21:33:49.011] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=903, z=1073200}"
+}
+[18Dec2024 21:33:49.012] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 98 extra bytes: 
+[18Dec2024 21:33:49.012] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<|./qf@+,@ 3'PM`bX1ii{yA*&+/,0/5"
+]
+[18Dec2024 21:33:49.013] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:Rot  id 22 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 21:33:49.013] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134118_": 0.0,
+  "f_134119_": 0.0,
+  "f_134120_": 0.0,
+  "f_134121_": 0.022208557,
+  "f_134122_": 6.695172E36,
+  "f_134123_": true,
+  "f_134124_": false,
+  "f_134125_": true
+}
+[18Dec2024 21:33:49.014] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 22 data of 89 extra bytes: 
+[18Dec2024 21:33:49.014] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "qf@+,@ 3'PM`bX1ii{yA*&+/,0/5"
+]
+[18Dec2024 21:33:49.016] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 21:33:49.016] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 38
+}
+[18Dec2024 21:33:49.017] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 65 extra bytes: 
+[18Dec2024 21:33:49.018] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "+/,0/520.ip.gl.ply.gg"
+]
+[18Dec2024 21:33:49.019] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 21:33:49.019] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 28
+}
+[18Dec2024 21:33:49.020] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 83 extra bytes: 
+[18Dec2024 21:33:49.020] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "/520.ip.gl.ply.gg"
+]
+[18Dec2024 21:33:49.021] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 21:33:49.021] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 53
+}
+[18Dec2024 21:33:49.022] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 82 extra bytes: 
+[18Dec2024 21:33:49.022] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-64, 18, 0, 10, 19, 19, 19, 3, 0, 0, 0, 20, 0, 18, 0, 0, 15, 50, 48, 46, 105, 112, 46, 103, 108, 46, 112, 108, 121, 46, 103, 103, 0, 5, 1, 0, 0, 0, 10, 0, 8, 0, 29, 0, 23, 0, 24, 0, 11, 0, 2, 1, 0, 0, 13, 0, 26, 0, 24, 8, 4, 4, 3, 8, 7, 8, 5, 8, 6, 4, 1, 5, 6, 5, 6, 3, 2, 2, -1, 1, 0, 0]"
+]
+[18Dec2024 21:33:49.023] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 21:33:49.023] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 10
+}
+[18Dec2024 21:33:49.024] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 101 extra bytes: 
+[18Dec2024 21:33:49.024] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "20.ip.gl.ply.gg+3&"
+]
+[18Dec2024 21:33:49.025] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundLockDifficultyPacket  id 19 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 21:33:49.025] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134105_": true
+}
+[18Dec2024 21:33:49.026] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 19 data of 99 extra bytes: 
+[18Dec2024 21:33:49.026] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "20.ip.gl.ply.gg+3&"
+]
+[18Dec2024 21:33:49.026] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundLockDifficultyPacket  id 19 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 21:33:49.027] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134105_": true
+}
+[18Dec2024 21:33:49.027] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 19 data of 133 extra bytes: 
+[18Dec2024 21:33:49.027] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "20.ip.gl.ply.gg+3& R&^]~YsK~X"
+]
+[18Dec2024 21:33:49.028] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 21:33:49.028] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 0
+}
+[18Dec2024 21:33:49.029] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 131 extra bytes: 
+[18Dec2024 21:33:49.029] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "20.ip.gl.ply.gg+3& R&^]~YsK~X"
+]
+[18Dec2024 21:33:49.030] [Netty Epoll Server IO #3/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda/0x0000769c6f2c90f0.operationComplete()
+java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:423) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md0fd8e2$lambda$on$0$2(Connection.java:1110) ~[server-1.20.1-20230612.114412-srg.jar%23399!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md0fd8e2$lambda$on$1$1(Connection.java:1088) ~[server-1.20.1-20230612.114412-srg.jar%23399!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:990) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:823) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18Dec2024 21:33:49.261] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 21:33:49.262] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=929, z=1073200}"
+}
+[18Dec2024 21:33:49.263] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 12 extra bytes: 
+[18Dec2024 21:33:49.263] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-42, 1, 117, 33, -14, 10, 97, 48, 124, -90, -49, 5]"
+]
+[18Dec2024 21:33:49.683] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 21:33:49.685] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=786, z=1073200}"
+}
+[18Dec2024 21:33:49.685] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 37 extra bytes: 
+[18Dec2024 21:33:49.685] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "n1dZ+rop7  @fC,"
+]
+[18Dec2024 21:34:03.394] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 21:34:03.395] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=778, z=1122352}"
+}
+[18Dec2024 21:34:03.395] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[18Dec2024 21:34:03.396] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[125, -117, 98, -31, -7, -73, 46, -25, -103, 78, -44]"
+]
+[18Dec2024 21:34:03.707] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 21:34:03.708] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=936, z=905264}"
+}
+[18Dec2024 21:34:03.708] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[18Dec2024 21:34:03.708] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-1, 77, 92, -20, -43, 90, 26, 123, -12, -32, 104]"
+]
+[18Dec2024 21:34:03.709] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPickItemPacket  id 26 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 21:34:03.709] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134222_": 123
+}
+[18Dec2024 21:34:03.710] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 26 data of 194 extra bytes: 
+[18Dec2024 21:34:03.710] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "hb>e)Ph/(0,=gk3'$#/j2@f5+<8L20.ip.gl.plygg"
+]
+[18Dec2024 21:34:05.514] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[18Dec2024 21:34:05.515] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=815, z=856112}"
+}
+[18Dec2024 21:34:05.516] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[18Dec2024 21:34:05.516] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-118, 24, -72, 120, 69, -86, 9, 34, -122, 27, -75]"
+]
+[18Dec2024 21:34:53.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved wrongly! 0.34561743792249544
+[18Dec2024 21:34:53.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved wrongly! 0.7205632880588944
+[18Dec2024 21:34:53.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved wrongly! 1.0907766239514878
+[18Dec2024 21:36:34.105] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[18Dec2024 21:36:34.172] [Worker-Main-1/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[18Dec2024 21:36:34.220] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[18Dec2024 21:36:34.220] [Worker-Main-2/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from repurposed_structures-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[18Dec2024 21:36:34.220] [Worker-Main-2/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[18Dec2024 21:36:34.221] [Worker-Main-2/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[18Dec2024 21:36:34.221] [Worker-Main-2/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[18Dec2024 21:36:34.224] [Worker-Main-2/DEBUG] [mixin/]: Mixing SpawnerBlockListener from brutalbosses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[18Dec2024 21:36:34.225] [Worker-Main-2/DEBUG] [mixin/]: brutalbosses.mixins.json:SpawnerBlockListener: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[18Dec2024 21:36:34.227] [Worker-Main-2/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mvs-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[18Dec2024 21:36:34.246] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[18Dec2024 21:36:34.249] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[18Dec2024 21:36:34.250] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[18Dec2024 21:36:34.280] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[18Dec2024 21:36:34.314] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[18Dec2024 21:36:34.329] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[18Dec2024 21:36:35.138] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18Dec2024 21:36:35.146] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18Dec2024 21:36:35.148] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18Dec2024 21:36:35.149] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[18Dec2024 21:36:35.172] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[18Dec2024 21:36:35.173] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[18Dec2024 21:36:36.329] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-363, y=65, z=962} at Chest with:minecraft:chests/ruined_portal
+[18Dec2024 21:36:37.277] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-359, y=-41, z=1081} at Barrel with:graveyard:chests/great_crypt_loot
+[18Dec2024 21:36:38.530] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[18Dec2024 21:36:38.567] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/centers/center
+[18Dec2024 21:37:04.849] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[18Dec2024 21:37:22.151] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid1
+[18Dec2024 21:37:24.397] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[18Dec2024 21:37:24.406] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[18Dec2024 21:37:24.418] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[18Dec2024 21:37:24.429] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[18Dec2024 21:37:24.440] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/boulder
+[18Dec2024 21:37:24.487] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[18Dec2024 21:37:34.070] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[18Dec2024 21:37:34.124] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[18Dec2024 21:37:37.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 21:37:37.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 21:37:37.844] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pond2
+[18Dec2024 21:37:41.548] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[18Dec2024 21:37:54.218] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[18Dec2024 21:38:01.191] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree2
+[18Dec2024 21:38:01.210] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[18Dec2024 21:38:01.219] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[18Dec2024 21:38:01.977] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:guardianboss at BlockPos{x=-566, y=49, z=1065} at Chest with:minecraft:chests/underwater_ruin_small
+[18Dec2024 21:38:25.836] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:temple/temple_ruin
+[18Dec2024 21:38:26.400] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree3
+[18Dec2024 21:38:26.435] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree3
+[18Dec2024 21:38:30.379] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_01
+[18Dec2024 21:38:41.947] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-340, y=-29, z=1221} at Sarcophagus with:graveyard:chests/crypt_loot
+[18Dec2024 21:38:42.274] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[18Dec2024 21:38:43.014] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:leafless_grove/oak_birch/grove2
+[18Dec2024 21:38:43.292] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[18Dec2024 21:38:45.918] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/snowy_well
+[18Dec2024 21:38:45.928] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/oak_well
+[18Dec2024 21:38:45.941] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/birch_well
+[18Dec2024 21:38:45.970] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_well
+[18Dec2024 21:38:45.982] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/acacia_well
+[18Dec2024 21:38:45.998] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/dark_oak_well
+[18Dec2024 21:38:46.015] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_upper
+[18Dec2024 21:38:46.028] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/rocky_well
+[18Dec2024 21:38:46.039] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/jungle_well
+[18Dec2024 21:38:46.056] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/spruce_well
+[18Dec2024 21:38:46.066] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/desert_well
+[18Dec2024 21:38:46.106] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[18Dec2024 21:38:49.364] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[18Dec2024 21:38:51.193] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/graveyard_large
+[18Dec2024 21:38:53.178] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of conjurer_illager:theatre/root
+[18Dec2024 21:38:56.249] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/frog_statue2
+[18Dec2024 21:38:57.831] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[18Dec2024 21:38:57.861] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[18Dec2024 21:38:58.311] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/birch_log_pile
+[18Dec2024 21:39:01.596] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[18Dec2024 21:39:10.620] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:portal1
+[18Dec2024 21:39:10.675] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[18Dec2024 21:39:23.519] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree3
+[18Dec2024 21:39:23.536] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree2
+[18Dec2024 21:39:23.885] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_03
+[18Dec2024 21:39:24.199] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/acacia_log_pile
+[18Dec2024 21:39:24.961] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/crashed_carriage
+[18Dec2024 21:39:27.109] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_03
+[18Dec2024 21:39:28.256] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_09
+[18Dec2024 21:39:33.137] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[18Dec2024 21:39:33.429] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_surface/tower2 is being run through DFU (hash c8dfad228f0a93a076edd7a83fbdc07cd5877d4fc2fe257a94c654fd890cef06), this will cause launch time delays
+[18Dec2024 21:39:33.970] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/castle1
+[18Dec2024 21:39:33.990] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/main_piece
+[18Dec2024 21:39:35.323] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[18Dec2024 21:39:38.108] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/farm_ruin/main
+[18Dec2024 21:39:38.121] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/top
+[18Dec2024 21:39:38.130] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:outcast_villager/boat/2/bottom is being run through DFU (hash 97b1362524df31daf2c9d4d3d217e7450138ef51b084f315d0da48e9e923770f), this will cause launch time delays
+[18Dec2024 21:39:39.726] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[18Dec2024 21:39:40.364] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-1, y=-15, z=1310} at Chest with:minecraft:chests/simple_dungeon
+[18Dec2024 21:39:40.489] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pillar1
+[18Dec2024 21:39:42.880] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/oak_log_pile
+[18Dec2024 21:40:11.049] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/stone_bee
+[18Dec2024 21:42:37.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 21:42:37.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 21:44:14.391] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/desert_scriber_1
+[18Dec2024 21:44:14.392] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/desert_lamp_1
+[18Dec2024 21:44:14.397] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
+[18Dec2024 21:46:40.735] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_02
+[18Dec2024 21:46:40.790] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[18Dec2024 21:46:40.796] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_07
+[18Dec2024 21:46:41.735] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/spruce_log_pile
+[18Dec2024 21:47:00.338] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/ruin4 is being run through DFU (hash a939c6cd2d850996d47992a00cdb546afac0a87854974aa2a2134a3a71bf268c), this will cause launch time delays
+[18Dec2024 21:47:14.037] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/frog_statue1
+[18Dec2024 21:47:14.143] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_02
+[18Dec2024 21:47:14.153] [Worker-Main-1/DEBUG] [ModernFix/]: Structure watching:torch_tunnel/2x2/tunnel is being run through DFU (hash 0e53cbc1eb5dd0e345664796a1079053ae3fba52a126b8d81c3150122048082a), this will cause launch time delays
+[18Dec2024 21:47:16.845] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[18Dec2024 21:47:18.041] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_13
+[18Dec2024 21:47:31.724] [Worker-Main-2/DEBUG] [ModernFix/]: Structure hopo:portal5 is being run through DFU (hash 714766ab21cb8c63f1ff1ff3c05c29c51cf8465e567c76e58f2f2ecf9a40ee4f), this will cause launch time delays
+[18Dec2024 21:47:37.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 21:47:37.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 21:47:38.078] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_07 is being run through DFU (hash 767a5d86c479c452da0739030ae366937978b46a338baea6f743b3d64d68803a), this will cause launch time delays
+[18Dec2024 21:47:41.376] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:redstone_torch_trail/trail1
+[18Dec2024 21:47:41.672] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_10
+[18Dec2024 21:47:42.846] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/torchless_tunnel
+[18Dec2024 21:47:48.876] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[18Dec2024 21:47:51.880] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mvs:nature/floating_islands is being run through DFU (hash 0079a7c145057f0c55ff8d5228f0e6953380c0ea0d5faa127fcc4241ad2a072c), this will cause launch time delays
+[18Dec2024 21:48:00.694] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:pillager_outpost/feature_cage1 is being run through DFU (hash 68cfdada2dc12feae6be9c3db84a4e56dc6e3617a64b7e9ef86caf153ba7d034), this will cause launch time delays
+[18Dec2024 21:48:03.303] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/jungle_log_pile
+[18Dec2024 21:48:03.805] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/church
+[18Dec2024 21:48:03.837] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:outcast_villager/mine/start is being run through DFU (hash 1ae041e1e4690d7a542f8eacfede4a94b8fcc48229c9fab3d76cd499eb10a9fa), this will cause launch time delays
+[18Dec2024 21:48:03.880] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:outcast_villager/desert/copper_house2 is being run through DFU (hash f40899ccfdbf4a2680d15fe5e9327ff1465573515183916a642ff1e582ab5875), this will cause launch time delays
+[18Dec2024 21:48:03.929] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:harvest/camp/barrels is being run through DFU (hash c28f3514b0ef20a404f60693c59fe4a6a86759977d1a6b622803bb5d0cb95799), this will cause launch time delays
+[18Dec2024 21:48:03.945] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/graveyard2
+[18Dec2024 21:48:15.075] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=447, y=-3, z=460} at Coffin with:graveyard:chests/crypt_loot
+[18Dec2024 21:48:16.137] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree4
+[18Dec2024 21:49:03.409] [Worker-Main-2/DEBUG] [ModernFix/]: Structure mvs:other_decoration/fire_camp is being run through DFU (hash ef1de8b73ff6362aaa4a2322c2abb04097cafb4bead88c26b4c4b6077de706de), this will cause launch time delays
+[18Dec2024 21:49:05.586] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/tunnel
+[18Dec2024 21:49:30.656] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/11918, l='ServerLevel[world]', x=663.64, y=68.00, z=596.70] died, message: 'Nitwit was slain by Zombie'
+[18Dec2024 21:50:07.380] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/12520, l='ServerLevel[world]', x=768.18, y=91.00, z=701.18]
+[18Dec2024 21:50:07.381] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/12521, l='ServerLevel[world]', x=768.38, y=91.00, z=703.40]
+[18Dec2024 21:50:07.381] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/12522, l='ServerLevel[world]', x=769.00, y=91.00, z=704.02]
+[18Dec2024 21:50:07.382] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/12523, l='ServerLevel[world]', x=769.61, y=91.00, z=704.64]
+[18Dec2024 21:50:07.383] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/12524, l='ServerLevel[world]', x=770.22, y=91.00, z=705.26]
+[18Dec2024 21:50:07.383] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/12525, l='ServerLevel[world]', x=770.83, y=91.00, z=705.87]
+[18Dec2024 21:50:24.734] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:small_grave/small_grave_17 is being run through DFU (hash 4f3740a04bde695030335307eb6887e52117d7d73f287d5c2b35f561572d09dd), this will cause launch time delays
+[18Dec2024 21:50:31.530] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_06
+[18Dec2024 21:50:31.642] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_06
+[18Dec2024 21:50:34.620] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_04
+[18Dec2024 21:50:34.791] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[18Dec2024 21:50:56.813] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:leafless_grove/oak_birch/grove1
+[18Dec2024 21:51:05.076] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin2
+[18Dec2024 21:51:05.110] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/mound_watchtower is being run through DFU (hash 136bd9aaf578f2f4d40e05662df8161de17a81ffc41cb41183cf3806ed368940), this will cause launch time delays

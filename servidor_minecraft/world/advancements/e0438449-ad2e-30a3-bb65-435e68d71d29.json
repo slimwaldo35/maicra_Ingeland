@@ -160,9 +160,11 @@
       "minecraft:old_growth_pine_taiga": "2024-12-18 04:12:51 +0000",
       "minecraft:birch_forest": "2024-12-18 04:51:55 +0000",
       "minecraft:bamboo_jungle": "2024-12-18 01:36:57 +0000",
+      "minecraft:wooded_badlands": "2024-12-18 21:47:07 +0000",
       "minecraft:beach": "2024-12-18 04:51:53 +0000",
       "minecraft:dark_forest": "2024-12-18 01:31:39 +0000",
       "minecraft:stony_peaks": "2024-12-18 05:03:50 +0000",
+      "minecraft:sparse_jungle": "2024-12-18 21:40:17 +0000",
       "minecraft:river": "2024-12-18 01:38:49 +0000",
       "minecraft:stony_shore": "2024-12-18 04:54:05 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-18 04:30:45 +0000"
@@ -380,6 +382,7 @@
       "lush_desert": "2024-12-18 05:04:55 +0000",
       "volcano": "2024-12-18 05:00:28 +0000",
       "rocky_rainforest": "2024-12-18 04:05:45 +0000",
+      "volcanic_plains": "2024-12-18 21:39:04 +0000",
       "grassland": "2024-12-18 04:12:32 +0000",
       "rainforest": "2024-12-18 04:10:11 +0000"
     },
@@ -3091,9 +3094,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "forge:ash": "2024-12-18 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2024-12-18 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2024-12-18 21:45:18 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-18 21:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-18 21:45:18 +0000"
     },
     "done": true
   },
