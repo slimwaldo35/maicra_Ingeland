@@ -2252,3 +2252,4 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [
   "i4MXbMls8,0+/$(k#'g93=<5/p20.i"
 ]
+[18Dec2024 06:50:57.893] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
