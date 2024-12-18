@@ -158,9 +158,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-18 04:12:51 +0000",
+      "minecraft:birch_forest": "2024-12-18 04:51:55 +0000",
       "minecraft:bamboo_jungle": "2024-12-18 01:36:57 +0000",
+      "minecraft:beach": "2024-12-18 04:51:53 +0000",
       "minecraft:dark_forest": "2024-12-18 01:31:39 +0000",
       "minecraft:river": "2024-12-18 01:38:49 +0000",
+      "minecraft:stony_shore": "2024-12-18 04:54:05 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-18 04:30:45 +0000"
     },
     "done": false
@@ -489,6 +492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-12-18 04:57:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/floor_trap": {
     "criteria": {
       "has_iron": "2024-12-18 04:28:32 +0000"
@@ -576,7 +585,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2024-12-18 04:10:46 +0000"
+      "minecraft:skeleton": "2024-12-18 04:10:46 +0000",
+      "minecraft:phantom": "2024-12-18 04:57:45 +0000"
     },
     "done": false
   },
@@ -793,6 +803,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-18 04:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-18 04:45:18 +0000"
     },
     "done": true
   },
@@ -1438,9 +1454,21 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2024-12-18 04:49:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/alarm": {
     "criteria": {
       "has_redstone": "2024-12-18 04:37:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-12-18 04:57:50 +0000"
     },
     "done": true
   },
@@ -1473,6 +1501,12 @@
       "has_stick": "2024-12-18 04:07:28 +0000"
     },
     "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2024-12-18 04:46:43 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
@@ -1646,6 +1680,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "fungal_jungle": "2024-12-18 04:05:00 +0000",
+      "volcano": "2024-12-18 05:00:28 +0000",
       "rocky_rainforest": "2024-12-18 04:05:45 +0000",
       "grassland": "2024-12-18 04:12:32 +0000",
       "rainforest": "2024-12-18 04:10:11 +0000"
@@ -1952,6 +1987,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2024-12-18 04:46:43 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/altimeter": {
     "criteria": {
       "has_redstone": "2024-12-18 04:37:20 +0000"
@@ -2150,6 +2191,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-18 04:49:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2024-12-18 04:13:50 +0000"
@@ -2177,6 +2224,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 04:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2024-12-18 04:43:17 +0000"
     },
     "done": true
   },
@@ -2235,6 +2288,12 @@
       "has_crafting_table": "2024-12-18 04:33:14 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2024-12-18 04:57:45 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {

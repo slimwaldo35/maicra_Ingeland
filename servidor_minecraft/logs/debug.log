@@ -9612,3 +9612,347 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [18Dec2024 04:45:19.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Notiwaldo_35> de donde vergas sacaste eso?JAJAJ
 [18Dec2024 04:46:43.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [World of illusion]
 [18Dec2024 04:46:56.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 has made the advancement [Local Brewery]
+[18Dec2024 04:48:10.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 04:48:10.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 04:48:29.667] [Worker-Main-2/DEBUG] [ModernFix/]: Structure iceandfire:gorgon_temple/building is being run through DFU (hash bfe7777c872d0a661fb3a707949dad660d6645d311cbc093100149bfa0745998), this will cause launch time delays
+[18Dec2024 04:48:29.760] [Worker-Main-2/DEBUG] [ModernFix/]: Structure iceandfire:gorgon_temple/basement is being run through DFU (hash 345e3da793356688449424b08af8595766f04c7237ab62d2e3f86f6b4f7a324f), this will cause launch time delays
+[18Dec2024 04:48:29.797] [Worker-Main-2/DEBUG] [ModernFix/]: Structure iceandfire:gorgon_temple/gorgon is being run through DFU (hash c50421b376c509e5dbf6b684c09a3de7a2e32e3a96b4f2dfca32fe843f7c5e68), this will cause launch time delays
+[18Dec2024 04:48:32.401] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ancient_elements:floating_island_big is being run through DFU (hash bd1c0cb5844971a296f59d1c758c3973d0a301e30c0965c62b9648d84c0f7a7b), this will cause launch time delays
+[18Dec2024 04:48:35.236] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[18Dec2024 04:48:40.813] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:carts/cart
+[18Dec2024 04:48:42.795] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_street_2 is being run through DFU (hash a022039109e0754e712826ad7f35f6d19a5ffb34cb66ac5a3bee2174a89b9f5c), this will cause launch time delays
+[18Dec2024 04:48:43.246] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:keep_kayra/keep_kayra_main_0 is being run through DFU (hash adaf93d65bc438dd5ad962fbe791a1e44f4e54fa8279dfc9b8fcae02d6813256), this will cause launch time delays
+[18Dec2024 04:48:48.536] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_big_0 is being run through DFU (hash 97ca3567cbb388be84c580456221b46df3e4f79b04df1743a0683c68768051ba), this will cause launch time delays
+[18Dec2024 04:48:48.822] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_0 is being run through DFU (hash 7b3068cd39c82e1fce787e40ceeae37232a163be5ecbf7f03bf4231c097a030a), this will cause launch time delays
+[18Dec2024 04:48:48.830] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_1 is being run through DFU (hash c38899ef6bf56e749fb933710eaca016c99a762549f9d4529d32842bcb01b833), this will cause launch time delays
+[18Dec2024 04:48:48.839] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_6 is being run through DFU (hash db0036046dcbfdb2add9578cbd208e4e9cf6e9ed4f934d03eeda260588a811a2), this will cause launch time delays
+[18Dec2024 04:48:48.847] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_5 is being run through DFU (hash af9c19032e47a68ff8a293612456dd3f968375a67be0abd7c8d909ef8747d9fe), this will cause launch time delays
+[18Dec2024 04:48:48.855] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_7 is being run through DFU (hash ea1a84e8397cb5a6dfac88232f928f0360797410f81b961328707ef2d01126f6), this will cause launch time delays
+[18Dec2024 04:48:48.862] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_2 is being run through DFU (hash 42e55a1bdf37ca93966fc3333646403561a978952366bece40fb23635ecf8167), this will cause launch time delays
+[18Dec2024 04:48:48.868] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_3 is being run through DFU (hash f011acc3853c6e3101d3c6c0c279faa1e5879f49c80aa22b64404e1fe98da263), this will cause launch time delays
+[18Dec2024 04:48:48.875] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_small_4 is being run through DFU (hash 6eca3bb9f7f46964786785eb87884fe9ad9e7911d774794d5752f4cd8857a522), this will cause launch time delays
+[18Dec2024 04:48:48.884] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mvs:nature/boulder is being run through DFU (hash 600ba1dd2e3b3e399254b4436fe84151f7d4fa60f0a449de2cbfab2578283513), this will cause launch time delays
+[18Dec2024 04:48:50.143] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of soulsweapons:champions_graves_main
+[18Dec2024 04:48:50.271] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of soulsweapons:cathedral_of_resurrection
+[18Dec2024 04:48:51.327] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_surface/ruin3 is being run through DFU (hash d6237c3d3db00412c6dcca541269a0b557879a8a75be8c90883fceb208241510), this will cause launch time delays
+[18Dec2024 04:48:51.464] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_spiral_stairs
+[18Dec2024 04:48:51.469] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_2
+[18Dec2024 04:48:51.471] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/double_storage
+[18Dec2024 04:48:51.473] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_1
+[18Dec2024 04:48:51.474] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/reception
+[18Dec2024 04:48:51.475] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/boiler
+[18Dec2024 04:48:51.477] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_2
+[18Dec2024 04:48:51.508] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of conjurer_illager:theatre/root
+[18Dec2024 04:48:55.775] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[18Dec2024 04:48:56.198] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_08
+[18Dec2024 04:48:58.425] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[18Dec2024 04:48:58.564] [Worker-Main-2/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/pond2 is being run through DFU (hash 7ad3070ec908e24021e557480211df2dcb3abfd9de261559fbe88c5e9856e347), this will cause launch time delays
+[18Dec2024 04:48:59.953] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-15, y=56, z=-784} but found not block entity block Block{minecraft:air} at location
+[18Dec2024 04:48:59.953] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-15, y=56, z=-784}
+[18Dec2024 04:48:59.954] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-13, y=56, z=-784} but found not block entity block Block{minecraft:air} at location
+[18Dec2024 04:48:59.954] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-13, y=56, z=-784}
+[18Dec2024 04:49:00.358] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_03
+[18Dec2024 04:49:00.818] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=167, y=-16, z=-810}
+[18Dec2024 04:49:00.818] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=166, y=-16, z=-793}
+[18Dec2024 04:49:00.819] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=172, y=-16, z=-803}
+[18Dec2024 04:49:00.819] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=174, y=-16, z=-792}
+[18Dec2024 04:49:04.449] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-13, y=56, z=-798} but found not block entity block Block{minecraft:air} at location
+[18Dec2024 04:49:04.450] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-13, y=56, z=-798}
+[18Dec2024 04:49:04.450] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-15, y=56, z=-800} but found not block entity block Block{minecraft:air} at location
+[18Dec2024 04:49:04.450] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-15, y=56, z=-800}
+[18Dec2024 04:49:04.450] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-13, y=56, z=-800} but found not block entity block Block{minecraft:air} at location
+[18Dec2024 04:49:04.450] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-13, y=56, z=-800}
+[18Dec2024 04:49:04.450] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-15, y=56, z=-798} but found not block entity block Block{minecraft:air} at location
+[18Dec2024 04:49:04.450] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-15, y=56, z=-798}
+[18Dec2024 04:49:04.620] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=171, y=-16, z=-811}
+[18Dec2024 04:49:04.620] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=167, y=-16, z=-810}
+[18Dec2024 04:49:04.621] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=166, y=-16, z=-793}
+[18Dec2024 04:49:04.621] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=172, y=-16, z=-803}
+[18Dec2024 04:49:05.133] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_graveyard/small_graveyard_06
+[18Dec2024 04:49:32.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Life turned out to be a comedy]
+[18Dec2024 04:50:15.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZEUS_PHASMA_> pa onde le damos?
+[18Dec2024 04:51:18.665] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ancient_elements:ceiling_scarlet_crystal_1 is being run through DFU (hash 44a2f0c59d6b83b2e8e77cfda7e55e7f93c0df8c075ad1a96ce1b30106bb0827), this will cause launch time delays
+[18Dec2024 04:51:18.666] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ancient_elements:cerulean_crystal_3 is being run through DFU (hash 1ebd1cf53e2b39071e368e6d43aa70e5bcabec04eb252b47788fdafe7db57d71), this will cause launch time delays
+[18Dec2024 04:51:18.671] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ancient_elements:ceiling_topaz_crystal_2 is being run through DFU (hash f0bdf7c3320c11fcabc981f8b44e95bd9b076c58118d70a8a24d21f9ae8ea146), this will cause launch time delays
+[18Dec2024 04:51:18.672] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ancient_elements:cerulean_crystal_1 is being run through DFU (hash d9207bda834705c0287a1a48ba3f2706a2aeab17479c85b7f5a8483a01a56b2f), this will cause launch time delays
+[18Dec2024 04:51:18.721] [Worker-Main-3/DEBUG] [ModernFix/]: Structure ancient_elements:big_scarlet_crystal_2 is being run through DFU (hash 2aea8a91468db80fcea86d9d8f7fc0d6b3ec489a190b41559e1fac0ba750f414), this will cause launch time delays
+[18Dec2024 04:51:18.723] [Worker-Main-3/DEBUG] [ModernFix/]: Structure ancient_elements:verdant_viridium_crystal_1 is being run through DFU (hash b8fee2486e5e59f469681b5e92cf67316312d6f541f9c1671be7d17da3df2be0), this will cause launch time delays
+[18Dec2024 04:51:18.746] [Worker-Main-3/DEBUG] [ModernFix/]: Structure ancient_elements:big_selenite_crystal_2 is being run through DFU (hash 36e8d16df7807f8a28ea41bf38337a900e7487f7e87ed013d4b007248b7145a0), this will cause launch time delays
+[18Dec2024 04:51:18.779] [Worker-Main-3/DEBUG] [ModernFix/]: Structure ancient_elements:ceiling_verdant_viridium_crystal_2 is being run through DFU (hash cb362273f02d6ae412a4638c8bf41290b976feb200ab88bd0718da67af336163), this will cause launch time delays
+[18Dec2024 04:51:18.780] [Worker-Main-3/DEBUG] [ModernFix/]: Structure ancient_elements:small_nocturnal_crystal_2 is being run through DFU (hash 477e68c3bce09e41a32c43f8d47e61c9372c9ef945009ba441b2311a4d0d4580), this will cause launch time delays
+[18Dec2024 04:51:18.810] [Worker-Main-3/DEBUG] [ModernFix/]: Structure ancient_elements:big_topaz_crystal_1 is being run through DFU (hash 0b281ad60f5d0bec3f8c5cce13a3dc4846e0f90a0aa0b9f68d46c3d479baab16), this will cause launch time delays
+[18Dec2024 04:51:25.789] [Worker-Main-3/DEBUG] [ModernFix/]: Structure ancient_elements:topaz_crystal_1 is being run through DFU (hash 91e4bfdea471351daa21af1a5616c0aa4334eda8cceaaabe68cbc0ff669c8b18), this will cause launch time delays
+[18Dec2024 04:51:25.919] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ancient_elements:selenite_crystal_3 is being run through DFU (hash 4b932e5414ec081c6e1603cb2b202a5b727026b6e56ae0d6ec2787d369cec63d), this will cause launch time delays
+[18Dec2024 04:51:25.920] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ancient_elements:small_verdant_viridium_crystal_1 is being run through DFU (hash 9320d0967f57cc944fbeecbbcc93b69c4be368ad52ad247450d6cd89dff6608a), this will cause launch time delays
+[18Dec2024 04:51:25.973] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ancient_elements:ceiling_scarlet_crystal_2 is being run through DFU (hash e179bfb565aeecff74f570a4bb2d7bd2248d650feee38d78c72101bde7f272a2), this will cause launch time delays
+[18Dec2024 04:51:25.974] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ancient_elements:verdant_viridium_crystal_3 is being run through DFU (hash 56c6d08dc864cca54922e31e130b25459328fc9d1d70c103c372653c8c4e3949), this will cause launch time delays
+[18Dec2024 04:51:27.357] [Worker-Main-3/DEBUG] [ModernFix/]: Structure ancient_elements:ceiling_verdant_viridium_crystal_1 is being run through DFU (hash 45620ba455fb8b33a44e900928847955e94050232483bcbf597d20936d099812), this will cause launch time delays
+[18Dec2024 04:51:31.921] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_5 is being run through DFU (hash f51dae16c51027e54c0d05189ad7f4ab570be0998ca7373227854d05ab73788c), this will cause launch time delays
+[18Dec2024 04:51:32.017] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[18Dec2024 04:51:32.025] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[18Dec2024 04:51:32.035] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[18Dec2024 04:51:39.408] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-289, y=41, z=-323} at Chest with:minecraft:chests/simple_dungeon
+[18Dec2024 04:51:41.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Notiwaldo_35> deja voy a cenar algo gay ahorita me meto
+[18Dec2024 04:51:43.570] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/acacia_log_pile
+[18Dec2024 04:51:45.200] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Notiwaldo_35 lost connection: Disconnected
+[18Dec2024 04:51:45.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Notiwaldo_35 left the game
+[18Dec2024 04:51:46.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZEUS_PHASMA_> arrex
+[18Dec2024 04:51:47.075] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-352, y=-14, z=-404} at Sarcophagus with:graveyard:chests/crypt_loot
+[18Dec2024 04:51:55.233] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-362, y=-1, z=-394}
+[18Dec2024 04:52:02.252] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-389, y=-12, z=-368}
+[18Dec2024 04:52:02.253] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-393, y=-11, z=-368}
+[18Dec2024 04:52:02.352] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/dark_oak_log_pile
+[18Dec2024 04:52:02.588] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-387, y=-1, z=-381}
+[18Dec2024 04:52:02.589] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-389, y=-12, z=-372}
+[18Dec2024 04:52:02.638] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[18Dec2024 04:52:07.931] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-413, y=-8, z=-368}
+[18Dec2024 04:52:07.941] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-413, y=-9, z=-369}
+[18Dec2024 04:52:13.732] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-417, y=-4, z=-367}
+[18Dec2024 04:52:14.348] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-422, y=-9, z=-412}
+[18Dec2024 04:52:14.629] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-430, y=-9, z=-418}
+[18Dec2024 04:52:16.345] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/spruce_log_pile
+[18Dec2024 04:52:20.748] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=-463, y=13, z=-308} at Chest with:minecraft:chests/simple_dungeon
+[18Dec2024 04:52:29.373] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_well
+[18Dec2024 04:52:29.394] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/desert_well
+[18Dec2024 04:52:29.414] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/acacia_well
+[18Dec2024 04:52:29.422] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_upper
+[18Dec2024 04:52:29.436] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/spruce_well
+[18Dec2024 04:52:29.868] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/birch_log_pile
+[18Dec2024 04:52:31.508] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:outcast_villager/farm_ruin/main is being run through DFU (hash 2a433cc8a35dbceb71d6d48e240e5debe839da132cb57e62083f63825e0ed678), this will cause launch time delays
+[18Dec2024 04:52:31.593] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:outcast_villager/medium2 is being run through DFU (hash 51c5ea36493fed3a51682b9d0aab0c9dbea766cf54f796386d2b10b761568251), this will cause launch time delays
+[18Dec2024 04:52:31.619] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/1/top
+[18Dec2024 04:52:31.629] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:outcast_villager/boat/1/bottom is being run through DFU (hash 21c31d7b5be5c8a7b4121b0be3ac9ccfb8f5580260c8c7ae7a5331ea5ea71d69), this will cause launch time delays
+[18Dec2024 04:52:32.387] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:portal13 is being run through DFU (hash 26374f6b4c81591e3d6d765c06bdfb203f2a7f6828389e6863de217c0c012313), this will cause launch time delays
+[18Dec2024 04:52:35.744] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:temple/temple_ruin
+[18Dec2024 04:52:36.777] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_4 is being run through DFU (hash b659f3c9823f98408b37a1c703f780d12cd034dd71c3c7eff72bed23d356958e), this will cause launch time delays
+[18Dec2024 04:52:40.068] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/house2 is being run through DFU (hash 7f0f0b61ae95427889f725d73673f4a40cd5fabdaf00ca57b42d09131986d7d9), this will cause launch time delays
+[18Dec2024 04:52:42.342] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-430, y=-30, z=-22} at Chest with:graveyard:chests/great_crypt_loot
+[18Dec2024 04:52:51.537] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=-330, y=-30, z=7} at Coffin with:graveyard:chests/crypt_loot
+[18Dec2024 04:52:54.031] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/frog_statue1 is being run through DFU (hash fa1b8f771fb43aa22752012b436bc2adfc8caa1df22bbdf67f4c951d8f9aa55c), this will cause launch time delays
+[18Dec2024 04:52:59.680] [pool-5-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains]] from pos BlockPos{x=-229, y=72, z=37}
+[18Dec2024 04:53:03.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3003ms or 60 ticks behind
+[18Dec2024 04:53:03.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -1.20193280292699,3.0,9.481529876460115
+[18Dec2024 04:53:03.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -1.1425687650906298,3.0,9.931263004028807
+[18Dec2024 04:53:03.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -1.082239818892674,3.0,10.390545484439372
+[18Dec2024 04:53:03.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -1.1236627151175753,3.0,10.848881331087085
+[18Dec2024 04:53:03.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -1.220101434387857,3.0,11.306512082791329
+[18Dec2024 04:53:03.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -1.3459780236725578,3.0,11.76376555224941
+[18Dec2024 04:53:03.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -1.385354684413528,3.0,12.227147970045905
+[18Dec2024 04:53:03.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -1.3784469580132281,3.0,12.69380986590025
+[18Dec2024 04:53:03.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -1.346773378864782,3.0,13.162226545077601
+[18Dec2024 04:53:03.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -1.3018480856886185,3.0,13.631582173824498
+[18Dec2024 04:53:03.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -1.249832064546922,2.9231679985046384,14.101440215765422
+[18Dec2024 04:53:03.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -1.2192015895201962,2.772546541336993,14.374723405981186
+[18Dec2024 04:53:03.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -1.1890875919027621,2.5510576895623984,14.640308881971293
+[18Dec2024 04:53:03.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -1.159434188852174,2.261507790682643,14.899029536217114
+[18Dec2024 04:53:03.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -1.1301915440481594,1.906592060890901,15.151628142254935
+[18Dec2024 04:53:03.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -1.1115403678757616,1.4888989858694543,15.398134023099388
+[18Dec2024 04:53:03.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -1.1023346637012423,1.0109145473159629,15.63920641145981
+[18Dec2024 04:53:03.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -1.1015524316972574,1.0,15.875433211083319
+[18Dec2024 04:53:03.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -1.1758265850810403,2.0,16.298484655452924
+[18Dec2024 04:53:03.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -1.2898433570736074,2.0,16.73723542699325
+[18Dec2024 04:53:03.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -1.4251256119014215,2.0,17.1843865954918
+[18Dec2024 04:53:03.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -1.4695350567457695,2.0,17.642363473463007
+[18Dec2024 04:53:03.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -1.465320272776296,2.0,18.10613297273167
+[18Dec2024 04:53:03.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -1.4373428802994113,2.0,18.573001988164208
+[18Dec2024 04:53:03.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.13380469123143257,-1.0,9.991744211256218
+[18Dec2024 04:53:03.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.08284692778289582,-1.0,10.461159140548915
+[18Dec2024 04:53:03.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.027603052072890932,-1.0,10.93104891302957
+[18Dec2024 04:53:03.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! 0.0299342368523412,-1.0,11.401192764632754
+[18Dec2024 04:53:03.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! 0.08813242031635582,-1.0,11.871544315585268
+[18Dec2024 04:53:03.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! 0.037814411193437536,0.0,12.332954592529802
+[18Dec2024 04:53:03.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.0716532456875143,0.0,12.789156131508378
+[18Dec2024 04:53:03.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.21277069976702023,0.0,13.242570578652405
+[18Dec2024 04:53:03.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.3708233292986165,0.0,13.694493708524377
+[18Dec2024 04:53:03.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.4360125061738813,0.0,14.155953441545662
+[18Dec2024 04:53:03.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.4515123010302773,0.0,14.622516020772792
+[18Dec2024 04:53:03.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.4404242982677715,0.0,15.091809031264887
+[18Dec2024 04:53:03.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.41510969510289897,0.0,15.562563041087941
+[18Dec2024 04:53:03.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.3821827217104783,0.0,16.034098802523815
+[18Dec2024 04:53:03.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.34518252078362366,0.0,16.506052863661253
+[18Dec2024 04:53:03.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.3060028170144733,0.0,16.97823074862901
+[18Dec2024 04:53:03.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.2656569047290418,0.0,17.4505283972658
+[18Dec2024 04:53:04.400] [Worker-Main-2/DEBUG] [ModernFix/]: Structure waystones:village/common/waystone is being run through DFU (hash 8018c9c611c0222e81b8a511c2719c2188d11b4c95bb01a0ad5112f4ec95bef5), this will cause launch time delays
+[18Dec2024 04:53:09.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! 0.2529435324685778,0.0,10.223071986742227
+[18Dec2024 04:53:09.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! 0.25929956757511263,0.0,10.697246365042702
+[18Dec2024 04:53:09.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! 0.16399222308001526,0.0,11.153159535204423
+[18Dec2024 04:53:09.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! 0.014286831109188824,0.0,11.599301496980303
+[18Dec2024 04:53:09.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.06372469368494649,0.0,12.058513030948404
+[18Dec2024 04:53:09.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.10337425957436608,0.0,12.524717832417409
+[18Dec2024 04:53:09.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.12249710610882403,0.0,12.994664591895429
+[18Dec2024 04:53:09.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.1306365143750554,0.0,13.466613598497474
+[18Dec2024 04:53:09.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.1340615846664832,0.0,13.939642050451901
+[18Dec2024 04:53:09.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.13313141987697463,0.0,14.413248092092573
+[18Dec2024 04:53:09.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.13220125508746605,0.0,14.887163190458452
+[18Dec2024 04:53:09.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.13127109029795747,0.0,15.361243658916067
+[18Dec2024 04:53:09.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.12977014960051747,0.0,15.835409406763567
+[18Dec2024 04:53:09.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.12826920890307747,0.0,16.30962078591231
+[18Dec2024 04:53:09.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.125605611889398,0.0,16.78384548891703
+[18Dec2024 04:53:09.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.12237128137394393,0.0,17.258069632699353
+[18Dec2024 04:53:09.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.11970768436026447,0.0,17.732301165805005
+[18Dec2024 04:53:09.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.11761483871435985,-0.07683200149536162,18.20654286934603
+[18Dec2024 04:53:09.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.11752182223693808,-0.2274534586630068,18.482349944003232
+[18Dec2024 04:53:09.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.11742880575951631,-0.4489423104376016,18.750364494723087
+[18Dec2024 04:53:09.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.11733578928209454,-0.7384922093173572,19.01142967239533
+[18Dec2024 04:53:09.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.11729985100544127,-1.093407939109099,19.266297571176104
+[18Dec2024 04:53:09.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.11738018348216883,-1.5111010141305457,19.515638623453896
+[18Dec2024 04:53:09.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.1175175937078734,-1.9890854526840371,19.760050551307565
+[18Dec2024 04:53:09.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.11782834394955444,-2.5249737179006644,20.000064924734716
+[18Dec2024 04:53:09.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.11831241501664636,-3.1164728193269013,20.236154434962046
+[18Dec2024 04:53:09.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.11879648608373827,-3.7613805688883275,20.4687437520869
+[18Dec2024 04:53:09.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.11928055715083019,-4.457581985117116,20.698211596913012
+[18Dec2024 04:53:09.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.11976462821792211,-5.203045839772017,20.924895712662874
+[18Dec2024 04:53:09.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.12024869928501403,-5.995821341212164,21.149097298750988
+[18Dec2024 04:53:09.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.12073277035210594,-6.0,21.37108496482295
+[18Dec2024 04:53:09.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.12557348110334488,-6.0,21.789500433143864
+[18Dec2024 04:53:09.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.13330919621472503,-6.0,22.233750467301114
+[18Dec2024 04:53:09.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.13744842313730032,-6.0,22.471459803188537
+[18Dec2024 04:53:09.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.13744842313730032,-6.0,22.598653329409046
+[18Dec2024 04:53:09.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.13744842313730032,-6.0,22.666712049324317
+[18Dec2024 04:53:09.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.13744842313730032,-6.0,22.703128913406495
+[18Dec2024 04:53:09.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.13744842313730032,-6.0,22.72261485130293
+[18Dec2024 04:53:09.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.13744842313730032,-6.0,22.73304138816362
+[18Dec2024 04:53:09.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.13744842313730032,-6.0,22.73862042015506
+[18Dec2024 04:53:09.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.13744842313730032,-6.0,22.73862042015506
+[18Dec2024 04:53:09.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.13744842313730032,-6.0,22.73862042015506
+[18Dec2024 04:53:09.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.13744842313730032,-6.0,22.73862042015506
+[18Dec2024 04:53:09.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.13744842313730032,-6.0,22.73862042015506
+[18Dec2024 04:53:09.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.13744842313730032,-6.0,22.73862042015506
+[18Dec2024 04:53:09.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.13744842313730032,-6.0,22.73862042015506
+[18Dec2024 04:53:09.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.13744842313730032,-6.0,22.73862042015506
+[18Dec2024 04:53:09.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.13744842313730032,-6.0,22.73862042015506
+[18Dec2024 04:53:09.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.053539574219485075,-6.0,22.66710561577289
+[18Dec2024 04:53:09.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! 0.07526722679233444,-6.0,22.557324665417198
+[18Dec2024 04:53:09.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! 0.22884078036111077,-6.0,22.42794902308006
+[18Dec2024 04:53:09.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! 0.31101492694944,-6.0,22.358722696337487
+[18Dec2024 04:53:09.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! 0.3549846744131173,-6.0,22.32168106912159
+[18Dec2024 04:53:09.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! 0.37851200961875975,-6.0,22.301860832928732
+[18Dec2024 04:53:09.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! 0.391101017602864,-6.0,22.29125541971481
+[18Dec2024 04:53:09.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! 0.39783714477738386,-6.0,22.285580674553167
+[18Dec2024 04:53:09.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! 0.4014415121246202,-6.0,22.282544231559385
+[18Dec2024 04:53:09.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! 0.4014415121246202,-6.0,22.282544231559385
+[18Dec2024 04:53:09.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! 0.4014415121246202,-6.0,22.282544231559385
+[18Dec2024 04:53:09.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! 0.2738888272834856,-6.0,22.102681608595496
+[18Dec2024 04:53:09.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! 0.08477424479735873,-6.0,21.82201669420357
+[18Dec2024 04:53:09.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.13192720488882514,-6.0,21.484014934287032
+[18Dec2024 04:53:09.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.2670118550598204,-6.0,21.078971816365176
+[18Dec2024 04:53:09.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.3584249830736894,-6.0,20.638056204435145
+[18Dec2024 04:53:09.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.4264703502975067,-6.0,20.177945936181708
+[18Dec2024 04:53:09.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.48201209462541783,-6.0,19.70756499002978
+[18Dec2024 04:53:09.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.5308633996370986,-6.0,19.23168840890959
+[18Dec2024 04:53:09.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.5761347839636528,-6.0,18.75287122308903
+[18Dec2024 04:53:09.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.6194906241074705,-6.0,18.27248057832263
+[18Dec2024 04:53:09.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.6426894697462444,-6.0,18.015433122264284
+[18Dec2024 04:53:09.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.6551027095124482,-6.0,17.877892153500838
+[18Dec2024 04:53:09.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.6617447866180441,-6.0,17.804296723386592
+[18Dec2024 04:53:09.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.6652988296485205,-6.0,17.764917276067038
+[18Dec2024 04:53:09.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.6365429745585516,-6.0,17.790876604351624
+[18Dec2024 04:53:09.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.5924004347398295,-6.0,17.851797408747338
+[18Dec2024 04:53:09.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.540024786700144,-6.0,17.93142540195349
+[18Dec2024 04:53:09.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.4832437666019018,-6.0,18.021063238910997
+[18Dec2024 04:53:09.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.424105519748764,-6.0,18.116057143685097
+[18Dec2024 04:53:09.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.36370596785712905,-6.0,18.213916973559392
+[18Dec2024 04:53:09.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.30263151678707345,-6.0,18.313310302814415
+[18Dec2024 04:53:09.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.26995179571264316,-6.0,18.366493691609584
+[18Dec2024 04:53:09.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.2524655285290578,-6.0,18.394951062591502
+[18Dec2024 04:53:09.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.24310897559769273,-6.0,18.410178034425158
+[18Dec2024 04:53:09.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.23810247067365253,-6.0,18.41832568346028
+[18Dec2024 04:53:09.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.23810247067365253,-6.0,18.422685328012378
+[18Dec2024 04:53:09.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved too quickly! -0.4830786170215333,-5.0,8.67371905163391
+[18Dec2024 04:53:13.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 04:53:13.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 04:53:43.162] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:shulkerboss at BlockPos{x=-429, y=0, z=159} at Chest with:minecraft:chests/simple_dungeon
+[18Dec2024 04:53:46.404] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_08 is being run through DFU (hash 95bf1e26c07c6ede910d03f28a3906e01d277b5197f836be3dc4f7fdf8515621), this will cause launch time delays
+[18Dec2024 04:53:49.817] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:strayboss at BlockPos{x=-275, y=5, z=208} at Chest with:minecraft:chests/simple_dungeon
+[18Dec2024 04:53:53.215] [Worker-Main-2/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/ruin3 is being run through DFU (hash 4d0b7b2bef2bfbda92e503d29e39bbcef360c020fc10d8549bb9b336863d7d89), this will cause launch time delays
+[18Dec2024 04:53:54.671] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor/large1
+[18Dec2024 04:53:57.983] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-458, y=35, z=269} at Chest with:betterdungeons:zombie_dungeon/chests/common
+[18Dec2024 04:54:05.739] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:phantomboss at BlockPos{x=-343, y=64, z=307} at Chest with:minecraft:chests/ruined_portal
+[18Dec2024 04:54:18.891] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-316, y=-41, z=359} at Sarcophagus with:graveyard:chests/crypt_loot
+[18Dec2024 04:54:36.067] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-402, y=-28, z=422} at Sarcophagus with:graveyard:chests/crypt_loot
+[18Dec2024 04:57:45.489] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Dec2024 04:57:45.494] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Phantom['Chrz the quick'/18874, l='ServerLevel[world]', x=-324.25, y=82.19, z=322.32] died: Chrz the quick was slain by ZEUS_PHASMA_
+[18Dec2024 04:58:11.176] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Dec2024 04:58:13.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 04:58:13.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 04:59:04.033] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[18Dec2024 04:59:05.384] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-557, y=47, z=179} at Chest with:minecraft:chests/underwater_ruin_small
+[18Dec2024 05:00:01.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved wrongly! 0.2905116724700747
+[18Dec2024 05:00:01.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dire Wolf (vehicle of ZEUS_PHASMA_) moved wrongly! 0.603421379377437
+[18Dec2024 05:00:07.532] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[18Dec2024 05:00:07.581] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[18Dec2024 05:00:28.877] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:portal7
+[18Dec2024 05:00:29.477] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of watching:leafless_grove/oak_birch/grove2
+[18Dec2024 05:00:31.409] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-464, y=15, z=644} at Chest with:minecraft:chests/simple_dungeon
+[18Dec2024 05:00:42.643] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-272, y=-12, z=686} at Chest with:minecraft:chests/simple_dungeon
+[18Dec2024 05:00:46.350] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:madcowboss at BlockPos{x=-181, y=66, z=664} at Chest with:minecraft:chests/jungle_temple
+[18Dec2024 05:00:46.484] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/pond1 is being run through DFU (hash 6a2dbffb06fc76ec845da81db8e757ac0e1c618bfade3acb67bcc83aef9830ee), this will cause launch time delays
+[18Dec2024 05:00:48.379] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/which_witch_is_which
+[18Dec2024 05:00:49.484] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-386, y=-3, z=721} at Sarcophagus with:graveyard:chests/crypt_loot
+[18Dec2024 05:00:51.585] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/ruin2 is being run through DFU (hash 3e17a0e166a52072f2162ea9451b7a9a350f7e1097a27f8e26f090bb8643d5ea), this will cause launch time delays
+[18Dec2024 05:00:57.800] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-358, y=0, z=786}
+[18Dec2024 05:01:02.266] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-290, y=7, z=812} at Chest with:minecraft:chests/simple_dungeon
+[18Dec2024 05:01:04.492] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-388, y=-7, z=829} at Coffin with:graveyard:chests/crypt_loot
+[18Dec2024 05:01:34.915] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/mossy_ruin/main
+[18Dec2024 05:01:34.925] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/desert/copper_house1
+[18Dec2024 05:01:34.934] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:outcast_villager/boat/3/top is being run through DFU (hash 650d40991420c09b2cfdf15565ad6237acbc8c2ad7b0687eab982f4304271535), this will cause launch time delays
+[18Dec2024 05:01:34.959] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/church
+[18Dec2024 05:01:34.977] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/barn1
+[18Dec2024 05:01:34.986] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/camp/scarecrow
+[18Dec2024 05:01:35.004] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/graveyard2
+[18Dec2024 05:02:11.480] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/desert_pump
+[18Dec2024 05:02:11.790] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witchboss at BlockPos{x=-120, y=51, z=901} at Chest with:minecraft:chests/simple_dungeon
+[18Dec2024 05:02:14.124] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_1 is being run through DFU (hash bf1fe6d05f4bdf12b33740f4faf9d25c701fe0a54a385776ecc0401c15fa8956), this will cause launch time delays
+[18Dec2024 05:02:14.172] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_husk_0
+[18Dec2024 05:02:18.472] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:portal1 is being run through DFU (hash c466823025197276bad0d02afd896cdbd802ca9543df76799cbc8b23d7ecdd26), this will cause launch time delays
+[18Dec2024 05:02:20.453] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_0 is being run through DFU (hash ba25d48fb64bb6f5a4173a32e12e7773d75c432e796bbb5ae067c0d8c67fc7f8), this will cause launch time delays
+[18Dec2024 05:02:20.483] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_1 is being run through DFU (hash 1b76022040df1733fa807a501281a93fdc996931b659899e009d837d595dfe05), this will cause launch time delays
+[18Dec2024 05:02:20.507] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_part_0_main is being run through DFU (hash bd7c55b1bb12e5a2d02b6a73a0b73a37eeb9cb470d83c70382af9be9b4541214), this will cause launch time delays
+[18Dec2024 05:02:20.517] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[18Dec2024 05:02:20.543] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[18Dec2024 05:02:20.569] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[18Dec2024 05:02:22.779] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[18Dec2024 05:02:22.779] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[18Dec2024 05:02:22.779] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[18Dec2024 05:02:22.779] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[18Dec2024 05:02:22.779] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[18Dec2024 05:02:24.001] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-34, y=-26, z=812} at Chest with:graveyard:chests/crypt_loot
+[18Dec2024 05:02:34.889] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ancient_elements:floating_island_huge is being run through DFU (hash 3a05747752931d45ae32294d94ffe6f4ecde781d858cc6eadda1c1c5da236b17), this will cause launch time delays
+[18Dec2024 05:02:40.445] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_0
+[18Dec2024 05:02:40.474] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:pirate_junk/pirate_junk_0
+[18Dec2024 05:02:40.509] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_0
+[18Dec2024 05:02:40.528] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:corsair_corvette/corsair_corvette_0
+[18Dec2024 05:02:40.547] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_0
+[18Dec2024 05:02:41.546] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/circle_tall
+[18Dec2024 05:02:44.015] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=57, y=-11, z=763} at Coffin with:graveyard:chests/crypt_loot
+[18Dec2024 05:02:45.630] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/house1 is being run through DFU (hash 5fe5d206578012046219f9e32fefe21c19bf13dec500868c89102fadf2bda50d), this will cause launch time delays
+[18Dec2024 05:02:59.679] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_09
+[18Dec2024 05:03:01.232] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=78, y=-38, z=860} at Coffin with:graveyard:chests/crypt_loot
+[18Dec2024 05:03:13.722] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 05:03:13.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 05:03:15.339] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[18Dec2024 05:03:19.106] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/pillar1 is being run through DFU (hash 72e23966bbaa406502050a643072eb0da996fa9c7e9bfb079e9043b1c8841fe0), this will cause launch time delays
+[18Dec2024 05:03:28.068] [Worker-Main-3/DEBUG] [ModernFix/]: Structure watching:redstone_torch_trail/trail2 is being run through DFU (hash 70f145f792102dd3bdc69bd1a19c30374e481b0aa00615cc68a17b72a990442b), this will cause launch time delays
+[18Dec2024 05:03:28.456] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/camp/tent
+[18Dec2024 05:03:28.468] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/graveyard1
+[18Dec2024 05:03:28.486] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/top
+[18Dec2024 05:03:33.476] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=21, y=-14, z=1117} at Sarcophagus with:graveyard:chests/crypt_loot
+[18Dec2024 05:03:40.943] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=97, y=51, z=1092} at Chest with:minecraft:chests/simple_dungeon
+[18Dec2024 05:03:55.845] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=182, y=20, z=916} at Chest with:minecraft:chests/simple_dungeon
+[18Dec2024 05:03:59.494] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/desert_scriber_1
+[18Dec2024 05:03:59.494] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/desert_lamp_1
+[18Dec2024 05:03:59.497] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
+[18Dec2024 05:04:07.614] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witchboss at BlockPos{x=245, y=4, z=1012} at Chest with:minecraft:chests/simple_dungeon
+[18Dec2024 05:04:10.796] [Worker-Main-2/DEBUG] [ModernFix/]: Structure watching:redstone_torch_trail/trail1 is being run through DFU (hash 3d7ce7449b26fe15f95837b28cc3e72d4a02828ca120dbd58b97ac5b013476bc), this will cause launch time delays
+[18Dec2024 05:04:10.937] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_15
+[18Dec2024 05:04:20.402] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=319, y=-8, z=806} at Coffin with:graveyard:chests/crypt_loot
+[18Dec2024 05:04:25.337] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mvs:well/wells/mushroom_well is being run through DFU (hash 4d8932d5349469a6376ce40be6a0c359fd0a704dad41aeb513bf83ff455d3c59), this will cause launch time delays
+[18Dec2024 05:04:38.904] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/house3 is being run through DFU (hash cede5f78d3c091ad7f58fb27463bcfe1aaf648c006c206d5a2e7b6899207a004), this will cause launch time delays
+[18Dec2024 05:04:38.923] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_surface/ruin2 is being run through DFU (hash 12b31365ec9be38387155c9a31846fc9cffeaa35f51bfa9f3ff91fc3ebe81cb7), this will cause launch time delays
+[18Dec2024 05:04:42.545] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[18Dec2024 05:04:43.835] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=417, y=-5, z=784} at Coffin with:graveyard:chests/crypt_loot
+[18Dec2024 05:04:44.604] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:small_savanna_grave/small_savanna_grave_04 is being run through DFU (hash 905a57ec840629a1c816db6c1afcf5f3a3481bec7d3e7e2630c4ba5aee5de0b7), this will cause launch time delays
+[18Dec2024 05:05:44.571] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[18Dec2024 05:05:54.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Sweet Dreams]
+[18Dec2024 05:07:07.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Rotten to the Core]
+[18Dec2024 05:07:12.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ has made the advancement [Book of Monsters]
