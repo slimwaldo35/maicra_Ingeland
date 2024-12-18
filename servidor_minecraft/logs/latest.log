@@ -1199,3 +1199,5 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 ]
 [18Dec2024 01:39:08.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUS_PHASMA_ lost connection: Disconnected
 [18Dec2024 01:39:08.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUS_PHASMA_ left the game
+[18Dec2024 01:40:28.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Dec2024 01:40:28.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STOP<--[HERE]
