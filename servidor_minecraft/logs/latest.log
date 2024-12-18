@@ -1482,3 +1482,4 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 ]
 [18Dec2024 22:39:37.738] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [18Dec2024 22:51:03.637] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[18Dec2024 22:56:28.589] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
