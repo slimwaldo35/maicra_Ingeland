@@ -3168,6 +3168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 22:07:51 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/palm_fence": {
     "criteria": {
       "has_planks": "2024-12-18 21:51:23 +0000"
@@ -3255,6 +3261,12 @@
   "biomesoplenty:recipes/redstone/palm_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-18 21:51:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-18 22:07:51 +0000"
     },
     "done": true
   },
