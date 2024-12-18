@@ -379,6 +379,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-18 07:39:10 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_drawer": {
     "criteria": {
       "has_planks": "2024-12-18 04:07:28 +0000"
@@ -675,6 +681,12 @@
       "minecraft:zombie": "2024-12-18 05:21:31 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2024-12-18 07:18:04 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
