@@ -169,6 +169,12 @@
     },
     "done": false
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-18 06:38:13 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2024-12-18 01:38:45 +0000"
